@@ -959,6 +959,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/SplatteredPixel01_cropped.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44108,
+		"inputAbbreviatedPath": "\/images\/SplatteredPixel01_cropped.png",
+		"outputAbbreviatedPath": "\/images\/SplatteredPixel01_cropped.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
